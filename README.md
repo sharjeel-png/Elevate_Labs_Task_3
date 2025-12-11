@@ -164,8 +164,9 @@ Screenshots taken for:
 14. Index creation success message  
 
 ---
-## Author 
-   MOHAMMAD SHARJEEL YAZDANI
+## 🧑‍💻 Author - MOHAMMAD SHARJEEL YAZDANI
+
+This project was completed as part of a Data Analyst Internship assignment ( Elevate Labs ).
 
 
 
