@@ -3,9 +3,9 @@
 This task focuses on using SQL to analyze ecommerce data.  
 The goal is to demonstrate querying, joining, grouping, subqueries, views, and indexing.
 
-## PDF LINK 
+## PRESENTATION LINK ( CONTAINS SCREENSHOTS )
 
-Elevate_Labs_Task_3 — SQL for Data Analysis PDF - https://www.canva.com/design/DAG7N2eUefw/yuEvd6zU9YGmgm04_62u1g/edit?ui=e30
+SQL for Data Analysis presentation link - https://www.canva.com/design/DAG7N2eUefw/yuEvd6zU9YGmgm04_62u1g/edit?ui=e30
 ---
 
 ## Files Included
